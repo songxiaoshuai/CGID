@@ -1,0 +1,1 @@
+We provide the weights for  IND pre-training stage in https://huggingface.co/XXHStudyHard/PLRD-IND-Pretraining.
